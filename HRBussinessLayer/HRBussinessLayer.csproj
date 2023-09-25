@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81E58BA4-AFCD-4DA5-B9D6-2A384D28C6E3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HRBussinessLayer</RootNamespace>
+    <AssemblyName>HRBussinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.VSDesigner.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alerts\Notification.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\Attendance.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\LeaveBalance.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\MedicalClaimsItems.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\HirePurchase.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\Leave.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\MedicalClaims.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase CLASS\SickDays.cs" />
+    <Compile Include="ComboElement.cs" />
+    <Compile Include="PayRoll Processing CLASS\Arrears.cs" />
+    <Compile Include="PayRoll Processing CLASS\ChartOfAccountMapping.cs" />
+    <Compile Include="PayRoll Processing CLASS\ChartOfAccountGeneration.cs" />
+    <Compile Include="PayRoll Processing CLASS\OverTime.cs" />
+    <Compile Include="Permissions.cs" />
+    <Compile Include="Staff Information CLASS\AppraisalGeneralPerformanceRating.cs" />
+    <Compile Include="Staff Information CLASS\AppraisalGeneralReview.cs" />
+    <Compile Include="Staff Information CLASS\AppraisalObjective.cs" />
+    <Compile Include="Staff Information CLASS\ExcuseDutyRequest.cs" />
+    <Compile Include="Staff Information CLASS\ExcuseDutyRequestType.cs" />
+    <Compile Include="Staff Information CLASS\ExternalTraining.cs" />
+    <Compile Include="Staff Information CLASS\Signature.cs" />
+    <Compile Include="Staff Information CLASS\StaffFingerprintTemplates.cs" />
+    <Compile Include="Staff Information CLASS\StaffNameChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffEmploymentDateChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffDOBChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffStatusChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffAppointmentTypeChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffGradeChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffJobTitleChange.cs" />
+    <Compile Include="Staff Information CLASS\StaffTraining.cs" />
+    <Compile Include="Staff Information CLASS\Termination.cs" />
+    <Compile Include="EMAIL\Email.cs" />
+    <Compile Include="EMAIL\StaffEmail.cs" />
+    <Compile Include="ErrorLogging\Logger.cs" />
+    <Compile Include="Hospital.cs" />
+    <Compile Include="PayRoll Processing CLASS\EmployeeBank.cs" />
+    <Compile Include="PayRoll Processing CLASS\PayRoll.cs" />
+    <Compile Include="PayRoll Processing CLASS\PayRollItem.cs" />
+    <Compile Include="PayRoll Processing CLASS\PayRollAttendance.cs" />
+    <Compile Include="PayRoll Processing CLASS\PaySlipAllowanceAndDeductions.cs" />
+    <Compile Include="PayRoll Processing CLASS\SSNITReturns.cs" />
+    <Compile Include="PayRoll Processing CLASS\StaffLoanPayments.cs" />
+    <Compile Include="SMS\ScheduleMessage.cs" />
+    <Compile Include="Staff Information CLASS\Confirmation.cs" />
+    <Compile Include="Staff Information CLASS\AnnualLeaveCalculation.cs" />
+    <Compile Include="Staff Information CLASS\Increment.cs" />
+    <Compile Include="Staff Information CLASS\Promotion.cs" />
+    <Compile Include="Staff Information CLASS\Sanction.cs" />
+    <Compile Include="Staff Information CLASS\Template.cs" />
+    <Compile Include="Staff Information CLASS\TrainingBond.cs" />
+    <Compile Include="Staff Information CLASS\UserInfo.cs" />
+    <Compile Include="Staff Information CLASS\Transfer.cs" />
+    <Compile Include="Staff Information CLASS\Internship.cs" />
+    <Compile Include="Staff Information CLASS\StaffLanguage.cs" />
+    <Compile Include="Staff Information CLASS\Workshop.cs" />
+    <Compile Include="System Setup Class\AccountType.cs" />
+    <Compile Include="System Setup Class\AppraisalPeriod.cs" />
+    <Compile Include="System Setup Class\AppraisalType.cs" />
+    <Compile Include="System Setup Class\AttendedSchool.cs" />
+    <Compile Include="System Setup Class\Band.cs" />
+    <Compile Include="System Setup Class\Bank.cs" />
+    <Compile Include="System Setup Class\BankBranch.cs" />
+    <Compile Include="System Setup Class\AppointmentType.cs" />
+    <Compile Include="System Setup Class\AnnualLeaveEntitlement.cs" />
+    <Compile Include="System Setup Class\Controls.cs" />
+    <Compile Include="System Setup Class\ControlToRole.cs" />
+    <Compile Include="System Setup Class\ChartOfAccountType.cs" />
+    <Compile Include="System Setup Class\AllowanceSubCategory.cs" />
+    <Compile Include="System Setup Class\DutyAllowance.cs" />
+    <Compile Include="System Setup Class\Organizers.cs" />
+    <Compile Include="System Setup Class\PublicHoliday.cs" />
+    <Compile Include="System Setup Class\Directorate.cs" />
+    <Compile Include="System Setup Class\GradeSalaries.cs" />
+    <Compile Include="System Setup Class\OverTimeType.cs" />
+    <Compile Include="System Setup Class\Race.cs" />
+    <Compile Include="System Setup Class\RiskAllowance.cs" />
+    <Compile Include="System Setup Class\SponsoredCertProgramme.cs" />
+    <Compile Include="Staff Information CLASS\SponsorshipGuaranter.cs" />
+    <Compile Include="System Setup Class\StaffIdentificationType.cs" />
+    <Compile Include="System Setup Class\TrainingAttendanceMode.cs" />
+    <Compile Include="System Setup Class\TrainingOrganizer.cs" />
+    <Compile Include="System Setup Class\TrainingSponsor.cs" />
+    <Compile Include="System Setup Class\UserToRole.cs" />
+    <Compile Include="System Setup Class\LeaveType.cs" />
+    <Compile Include="System Setup Class\Role.cs" />
+    <Compile Include="System Setup Class\UserCategoryRole.cs" />
+    <Compile Include="System Setup Class\UserAccessLevel4.cs" />
+    <Compile Include="System Setup Class\UserAccessLevel3.cs" />
+    <Compile Include="System Setup Class\PromotionType.cs" />
+    <Compile Include="System Setup Class\SeparationType.cs" />
+    <Compile Include="System Setup Class\Language.cs" />
+    <Compile Include="System Setup Class\DisabilityType.cs" />
+    <Compile Include="System Setup Class\LicenceType.cs" />
+    <Compile Include="System Setup Class\StaffStatus.cs" />
+    <Compile Include="System Setup Class\PhoneNumberType.cs" />
+    <Compile Include="System Setup Class\SanctionType.cs" />
+    <Compile Include="System Setup Class\QualificationType.cs" />
+    <Compile Include="System Setup Class\DADepartment.cs" />
+    <Compile Include="System Setup Class\FileNumber.cs" />
+    <Compile Include="System Setup Class\Zone.cs" />
+    <Compile Include="System Setup Class\HealthFacilityOwnership.cs" />
+    <Compile Include="System Setup Class\HealthFacilityType.cs" />
+    <Compile Include="System Setup Class\Sponsor.cs" />
+    <Compile Include="System Setup Class\TrainingType.cs" />
+    <Compile Include="System Setup Class\LocationType.cs" />
+    <Compile Include="System Setup Class\InServiceTraining.cs" />
+    <Compile Include="System Setup Class\InternshipType.cs" />
+    <Compile Include="System Setup Class\SingleSpine.cs" />
+    <Compile Include="System Setup Class\Country.cs" />
+    <Compile Include="System Setup Class\Denomination.cs" />
+    <Compile Include="System Setup Class\District.cs" />
+    <Compile Include="System Setup Class\Occupation.cs" />
+    <Compile Include="System Setup Class\Religion.cs" />
+    <Compile Include="System Setup Class\Step.cs" />
+    <Compile Include="System Setup Class\GenderGroup.cs" />
+    <Compile Include="System Setup Class\JobTitle.cs" />
+    <Compile Include="System Setup Class\Nationality.cs" />
+    <Compile Include="System Setup Class\OccupationGroup.cs" />
+    <Compile Include="System Setup Class\Region.cs" />
+    <Compile Include="System Setup Class\Specialty.cs" />
+    <Compile Include="System Setup Class\Title.cs" />
+    <Compile Include="System Setup Class\Town.cs" />
+    <Compile Include="System Setup Class\Type.cs" />
+    <Compile Include="System Setup Class\Unit.cs" />
+    <Compile Include="TimeAndAttendance\AttendanceParameters.cs" />
+    <Compile Include="TimeAndAttendance\TimeCard.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staff Information CLASS\Applicant.cs" />
+    <Compile Include="System Setup Class\Relationship.cs" />
+    <Compile Include="Staff Information CLASS\SocialHistory.cs" />
+    <Compile Include="Staff Information CLASS\StaffDeduction.cs" />
+    <Compile Include="Staff Information CLASS\Misc.cs" />
+    <Compile Include="Staff Information CLASS\Shift.cs" />
+    <Compile Include="Staff Information CLASS\StaffBank.cs" />
+    <Compile Include="Staff Information CLASS\StaffDocument.cs" />
+    <Compile Include="Staff Information CLASS\StaffLeaveRoaster.cs" />
+    <Compile Include="PayRoll Processing CLASS\StaffLoan.cs" />
+    <Compile Include="Staff Information CLASS\StaffOtherIssues.cs" />
+    <Compile Include="Staff Information CLASS\Relation.cs" />
+    <Compile Include="Staff Information CLASS\StaffAllowance.cs" />
+    <Compile Include="Staff Information CLASS\Children.cs" />
+    <Compile Include="Staff Information CLASS\Vacancy.cs" />
+    <Compile Include="Staff Information CLASS\VacancyStatus.cs" />
+    <Compile Include="Staff Information CLASS\WorkExperience.cs" />
+    <Compile Include="Staff Information CLASS\Employee.cs" />
+    <Compile Include="Staff Information CLASS\JobHistory.cs" />
+    <Compile Include="Staff Information CLASS\Passport.cs" />
+    <Compile Include="Staff Information CLASS\StaffPayInfo.cs" />
+    <Compile Include="Staff Information CLASS\Profession.cs" />
+    <Compile Include="Staff Information CLASS\Qualification.cs" />
+    <Compile Include="Staff Information CLASS\Referee.cs" />
+    <Compile Include="Staff Information CLASS\StaffSalaryHistory.cs" />
+    <Compile Include="Staff Information CLASS\Visa.cs" />
+    <Compile Include="Staff Information CLASS\WorkPermit.cs" />
+    <Compile Include="System Setup Class\Allowance.cs" />
+    <Compile Include="System Setup Class\AllowanceCategory.cs" />
+    <Compile Include="System Setup Class\Company.cs" />
+    <Compile Include="System Setup Class\DeductionCategory.cs" />
+    <Compile Include="System Setup Class\Deduction.cs" />
+    <Compile Include="System Setup Class\DeductionSubCategory.cs" />
+    <Compile Include="System Setup Class\Department.cs" />
+    <Compile Include="System Setup Class\EmployeeGrade.cs" />
+    <Compile Include="System Setup Class\EmploymentType.cs" />
+    <Compile Include="System Setup Class\GradeCategory.cs" />
+    <Compile Include="System Setup Class\Holiday.cs" />
+    <Compile Include="System Setup Class\Level.cs" />
+    <Compile Include="System Setup Class\Loan.cs" />
+    <Compile Include="System Setup Class\LoanType.cs" />
+    <Compile Include="System Setup Class\SalaryGrade.cs" />
+    <Compile Include="System Setup Class\SalaryType.cs" />
+    <Compile Include="System Setup Class\SSNITContribution.cs" />
+    <Compile Include="System Setup Class\TaxableIncome.cs" />
+    <Compile Include="System Setup Class\User.cs" />
+    <Compile Include="System Setup Class\UserAccessLevel1.cs" />
+    <Compile Include="System Setup Class\UserAccessLevel2.cs" />
+    <Compile Include="System Setup Class\UserCategory.cs" />
+    <Compile Include="System Setup Class\UserRole.cs" />
+    <Compile Include="TimeAndAttendance\TimeUnit.cs" />
+    <Compile Include="Utils\DateExtensions.cs" />
+    <Compile Include="Utils\DateUtil.cs" />
+    <Compile Include="Validation\Validator.cs" />
+    <Compile Include="XDateTime.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

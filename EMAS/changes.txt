@@ -1,0 +1,18 @@
+13-09-21
+* Fixed issues with Salary Info form causing Basic Salary issues. 
+
+03-09-21-2
+* Risk allowance and Duty allowance forms issues resolved. 
+
+02-09-21-2
+* Risk allowance and Duty allowance forms issues resolved. 
+
+02-09-21
+*Loading certain salary info throws an error.
+
+31-08-21
+*Enabled Print and Export for Allowances and Deductions Reports. 
+
+25-08-21
+*Allowances form repeats all duty and risk allowances for employee. 
+

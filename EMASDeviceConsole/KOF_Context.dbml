@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HumanResourceKOF" Class="KOF_ContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-Q3NITF5\SQLEXPRESS;Initial Catalog=HumanResourceKOF;Persist Security Info=True;User ID=sa" SettingsObjectName="EMASDeviceConsole.Properties.Settings" SettingsPropertyName="HumanResourceKOFConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.StaffPersonalInfo" Member="StaffPersonalInfos">
+    <Type Name="StaffPersonalInfo">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StaffID" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FingerPrintID" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="UserInfoID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Surname" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Firstname" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="OtherName" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="NickName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="FileNumber" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="FileNumberID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="PIN" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Age" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="NationalID" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaidenName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GradeCategoryID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="GradeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="GradeDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="StepID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="SalaryLevelID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="BandID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="BasicSalary" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="DOB" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GenderGroupID" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="TitleID" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="NationalityID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="TownID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Hometown" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Telno" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Telno_2" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MobileNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaritalstatusID" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="DOM" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ReligionID" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="PlaceOfBirth" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="CountryOfBirth" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="DistrictOfBirth" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="RegionOfBirth" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="NoOfchildren" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="Denomination" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="JobTitleID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="QualificationID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="SSNITNo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NHISNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HouseNumber" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="StreetName" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="ResidentialTownID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ResidentialRegionID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ResidentialCountryID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="RegionID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactCountryID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactHomeTownID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="InDepartmentDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AppointmentTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="EmploymentDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="IsProvidentFund" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="SSNIT" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IncomeTax" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Probation" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="ProbationStartDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ProbationEndDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ProbationStatusID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="TIN" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FingerPrint" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="IncrementDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Terminated" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TerminationDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="LeaveStatus" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="OnLeave" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="OnLeaveWithPay" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentLeaveDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CurrentLeaveStartDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CurrentLeaveEndDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="LeaveArrears" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="AnnualLeave" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="AnnualLeaveDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AnnualLeaveYear" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="CasualLeave" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="CasualLeaveDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="LeaveTaken" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="LeaveBalance" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="TransferredOut" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TransferredIn" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TransferredInternally" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TransferType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentTransferredDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Confirmed" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentConfirmationDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="PromotionType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentPromotionDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CurrentSanctionDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="SanctionTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Sanctioned" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Payment" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DateAndTimeGenerated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Archived" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="EngagementTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="EngagementGradeIDOn" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="EngagementGradeIDLeaving" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="EngagementDateApplied" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="EngagementEffectiveDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="EngagementEndingDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="EngagementContractOption" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="DOFA" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DOCA" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AssumptionDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="SpecialtyID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="UnitID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="OccuGRP" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="StatusID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ZoneID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="InZoneDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="IsExemptFromSecondTier" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsSusuPlusContribution" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="SusuPlusContributionAmount" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="IsWithholdingTax" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsWithholdingTaxFixedAmount" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="WithholdingTaxFixedAmount" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="IsWithholdingTaxRate" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="WithholdingTaxRate" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="CalculateOn" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="ServerDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="ServerTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ArchivedTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ArchivererID" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SalaryGrouping" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="IsInSalaryInfo" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="OldBasicSalary" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Mechanised" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="LicenceTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="LicenceNumber" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DisabilityTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="IsDisable" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DisabilityDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="EngagementAnnualSalary" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Confirmer" Type="System.String" DbType="NVarChar(450) NOT NULL" CanBeNull="false" />
+      <Column Name="CurrentConfirmationTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ProbationApprover" Type="System.String" DbType="NVarChar(450) NOT NULL" CanBeNull="false" />
+      <Column Name="ProbationApprovedDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ProbationApprovedTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="GradeOnFirstAppointmentID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="SeparationTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="PromotionTypeID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="AnnualLeaveEntitlementID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="AnnualLeaveProposedStartDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AnnualLeaveProposedEndDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AnnualLeaveProposedDays" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Tribe" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="RaceID" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SupervisorCode" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Overseer" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="JobTitleDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Hourly" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PFRate" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="DirectorateID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OtherID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PaymentAccType" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="IDNumber" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="InternshipTypeID" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Institution" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ReportingDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="AreaOfStudy" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SupervisorStaffID" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="SupervisorName" Type="System.String" DbType="NVarChar(350)" CanBeNull="true" />
+      <Column Name="UserType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YearStudied" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="ShiftType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

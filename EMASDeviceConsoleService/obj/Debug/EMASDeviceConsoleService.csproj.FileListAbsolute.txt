@@ -1,0 +1,66 @@
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\ResolveAssemblyReference.cache
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csprojResolveAssemblyReference.cache
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csprojResolveAssemblyReference.cache
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+G:\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe.config
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.exe
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\bin\Debug\EMASDeviceConsoleService.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.EMASDeviceConsole.resources
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.Installer1.resources
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.csproj.GenerateResource.Cache
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.exe
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsoleService\obj\Debug\EMASDeviceConsoleService.pdb

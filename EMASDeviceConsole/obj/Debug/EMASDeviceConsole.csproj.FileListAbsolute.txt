@@ -1,0 +1,117 @@
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+D:\Applications\Delivery\HumanResourceSolution\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+G:\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\Support\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\Support\Desktop\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution-AGA\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe.config
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\EMASDeviceConsole.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\AxInterop.zkemkeeper.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.EMASDeviceConsole.resources
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.Properties.Resources.resources
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.csproj.GenerateResource.Cache
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.exe
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\EMASDeviceConsole\obj\Debug\EMASDeviceConsole.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\x86\Debug\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\x86\Debug\HRDataAccessLayerBase.pdb

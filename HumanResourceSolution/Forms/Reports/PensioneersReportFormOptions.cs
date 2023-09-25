@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using HRBussinessLayer.ErrorLogging;
+using HRDataAccessLayer;
+
+namespace eMAS.Forms.Reports
+{
+    public partial class PensioneersReportFormOptions : Form
+    {
+        private Form reportForm;
+        private IDAL dal;
+
+        public PensioneersReportFormOptions()
+        {
+            try
+            {
+                InitializeComponent();
+                this.reportForm = new Form();
+                this.dal = new DAL();
+            }
+            catch(Exception ex)
+            {
+                Logger.LogError(ex);
+            }
+        }
+
+        private void PensioneersReportFormOptions_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                this.Text = GlobalData.Caption;
+                GlobalData.SetFormPermissions(this, dal, GlobalData.User.ID);
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError(ex);
+            }
+        }
+
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (reportForm != null && !reportForm.IsDisposed)
+                {
+                    reportForm.Close();
+                }
+                PensioneersReportForm form = new PensioneersReportForm(numericUpDown1.Value);
+                form.Show();
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError(ex);
+            }
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError(ex);
+            }
+        }
+    }
+}

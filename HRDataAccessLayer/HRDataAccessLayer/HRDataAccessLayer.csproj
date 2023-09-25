@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7470450-74D0-4A86-9DB6-26991E368EBA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HRDataAccessLayer</RootNamespace>
+    <AssemblyName>HRDataAccessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\LeaveBalanceDataMapper.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\NotificationDataMapper.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\AttendanceDataMapper.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\MedicalClaimsItemsDataMapper.cs" />
+    <Compile Include="ComboDataMapper.cs" />
+    <Compile Include="EMAIL\EmailsDataMapper.cs" />
+    <Compile Include="OrganizersDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\AllowanceAndDeductionSummaryDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\ArrearsDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\ChartOfAccountMappingDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\ChartOfAccountGenerationDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\StaffLoanPaymentDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\StaffAllowanceDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\StaffDeductionsDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\EmployeeBanksDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\StaffSalaryHistoryDataMapper.cs" />
+    <Compile Include="Query Model\CriteriaOperator.cs" />
+    <Compile Include="Query Model\Criteria.cs" />
+    <Compile Include="Query Model\Criterion.cs" />
+    <Compile Include="Query Model\CriterionOperator.cs" />
+    <Compile Include="Payroll Processing Data Control\HirePurchaseDataMapper.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\LeaveDataMapper.cs" />
+    <Compile Include="Claims-Leave-Hire Purchase Data Control\MedicalClaimsDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\OverTimeDataMapper.cs" />
+    <Compile Include="SponsorDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\AppraisalGeneralPerformanceRatingDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\AppraisalGeneralReviewDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ExcuseDutyRequestDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ExcuseDutyRequestTypeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ExternalTrainingDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\SponsorshipGuarantersDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffNameChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffEmploymentDateChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffDOBChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffStatusChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffAppointmentTypeChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffGradeChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffJobTitleChangeDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffLeaveRoasterDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\TerminationDataMapper.cs" />
+    <Compile Include="DAL.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="IDAL.cs" />
+    <Compile Include="Payroll Processing Data Control\PayRollAttendanceDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\StaffLoanDataMapper.cs" />
+    <Compile Include="Payroll Processing Data Control\PayRollDataMapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Query Model\JoinClauses.cs" />
+    <Compile Include="Query Model\JoinClause.cs" />
+    <Compile Include="Query Model\JoinOperator.cs" />
+    <Compile Include="Query Model\OrderClause.cs" />
+    <Compile Include="Query Model\Query.cs" />
+    <Compile Include="Query Model\QueryTranslater.cs" />
+    <Compile Include="SMS\ScheduleMessageDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ApplicantDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ConfirmationDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\AnnualLeaveCalculationsDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\IncrementDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\PromotionDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\SanctionDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\TemplateDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\TrainingBondDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\UserInfoDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\TransferDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\InternshipDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffBankDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffDocumentsDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\RefereesDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\QualificationDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffTrainingDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\WorkExperienceDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\ProfessionDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\StaffLanguagesDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\WorkshopDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AnnualLeaveEntitlementMapper.cs" />
+    <Compile Include="Staff Info Data Control\AppraisalObjectivesDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AppraisalPeriodDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AppraisalTypesDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AttendedSchoolDataMapper.cs" />
+    <Compile Include="System Setup Data Control\ControlToRoleDataMapper.cs" />
+    <Compile Include="System Setup Data Control\ControlDataMapper.cs" />
+    <Compile Include="System Setup Data Control\ChartOfAccountTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AllowanceSubCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DutyAllowanceDataMapper.cs" />
+    <Compile Include="System Setup Data Control\PublicHolidaysDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DirectorateDataMapper.cs" />
+    <Compile Include="System Setup Data Control\GradeSalariesMapper.cs" />
+    <Compile Include="System Setup Data Control\OverTimeTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\RaceDataMapper.cs" />
+    <Compile Include="System Setup Data Control\RiskAllowanceDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SponsoredCertProgrammeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\StaffIdentificationTypesDataMapper.cs" />
+    <Compile Include="System Setup Data Control\TrainingAttendanceModeMapper.cs" />
+    <Compile Include="System Setup Data Control\TrainingOrganizersDataMapper.cs" />
+    <Compile Include="System Setup Data Control\TrainingSponsorDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UnitDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserToRoleDataMapper.cs" />
+    <Compile Include="System Setup Data Control\RoleDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LeaveTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserCategoryRoleDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserAccessLevel3DataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserAccessLevel2DataMapper.cs" />
+    <Compile Include="System Setup Data Control\PromotionTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SeparationTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\TownsDataMapper.cs" />
+    <Compile Include="System Setup Data Control\OccupationsDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\DependentsDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\EmployeeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\TitlesDataMapper.cs" />
+    <Compile Include="Staff Info Data Control\VacancyDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserAccessLevel1DataMapper.cs" />
+    <Compile Include="System Setup Data Control\AllowanceDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AllowanceCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\CompanyDataMapper.cs" />
+    <Compile Include="System Setup Data Control\BandsDataMapper.cs" />
+    <Compile Include="System Setup Data Control\BankDataMapper.cs" />
+    <Compile Include="System Setup Data Control\BankBranchDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AccountTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\AppointmentTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DisabilityTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LicenceTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LanguageDataMapper.cs" />
+    <Compile Include="System Setup Data Control\StaffStatusDataMapper.cs" />
+    <Compile Include="System Setup Data Control\PhoneNumberTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\OccupationalGroupingDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SanctionTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\QualificationTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\InternshipTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\FileDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SpecialtyDataMapper.cs" />
+    <Compile Include="System Setup Data Control\ReligionDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DenominationDataMapper.cs" />
+    <Compile Include="System Setup Data Control\RelationshipDataMapper.cs" />
+    <Compile Include="System Setup Data Control\JobTitleDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LocationTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\ZoneDataMapper.cs" />
+    <Compile Include="System Setup Data Control\RegionDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DistrictDataMapper.cs" />
+    <Compile Include="System Setup Data Control\CountryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\HealthFacilityOwnershipDataMapper.cs" />
+    <Compile Include="System Setup Data Control\HealthFacilityTypeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SingleSpineDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DeductionCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DeductionDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DeductionSubCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\DepartmentsDataMapper.cs" />
+    <Compile Include="System Setup Data Control\EmployeeGradeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\EmployeeGradeCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\HolidaysDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LevelsDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LoanPaymentDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LoansDataMapper.cs" />
+    <Compile Include="System Setup Data Control\LoanTypesDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SalaryTypesDataMapper.cs" />
+    <Compile Include="System Setup Data Control\SSNITContributionDataMapper.cs" />
+    <Compile Include="System Setup Data Control\StepDataMapper.cs" />
+    <Compile Include="System Setup Data Control\TaxableIncomeDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserAccessLevel4DataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserCategoryDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserDataMapper.cs" />
+    <Compile Include="System Setup Data Control\UserRoleDataMapper.cs" />
+    <Compile Include="MyStuff.cs" />
+    <Compile Include="TimeAndAttendance\TimeCardDataMapper.cs" />
+    <Compile Include="TrainingTypeDataMapper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\HRBussinessLayer\HRBussinessLayer.csproj">
+      <Project>{81E58BA4-AFCD-4DA5-B9D6-2A384D28C6E3}</Project>
+      <Name>HRBussinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HRDataAccessLayerBase\HRDataAccessLayerBase\HRDataAccessLayerBase.csproj">
+      <Project>{1909F06B-018C-4FB9-AF18-432812C50864}</Project>
+      <Name>HRDataAccessLayerBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Alerts\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

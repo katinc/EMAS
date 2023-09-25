@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 35.75" name="KOF_Context">
+  <DataContextMoniker Name="/KOF_ContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6dd7aa79-7ba0-4e89-8d45-8e494569510a" absoluteBounds="2.25, 1.25, 2, 34.2698388671875">
+      <DataClassMoniker Name="/KOF_ContextDataContext/StaffPersonalInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65e9d8f8-71ef-4343-89d6-596beb7f545d" absoluteBounds="2.265, 1.71, 1.9700000000000002, 33.7098388671875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

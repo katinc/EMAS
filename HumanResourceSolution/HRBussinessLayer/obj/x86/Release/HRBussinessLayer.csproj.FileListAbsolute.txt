@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Release\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Release\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Release\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Release\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Release\HRBussinessLayer.pdb

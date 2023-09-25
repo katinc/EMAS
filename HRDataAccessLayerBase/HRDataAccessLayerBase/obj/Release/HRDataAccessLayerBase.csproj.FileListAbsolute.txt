@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Release\HRDataAccessLayerBase.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Release\HRDataAccessLayerBase.pdb

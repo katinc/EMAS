@@ -1,0 +1,14 @@
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\AutomatedEmailService.BirthdayEmailService.resources
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\AutomatedEmailService.csproj.GenerateResource.Cache
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\AutomatedEmailService.exe
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\AutomatedEmailService.pdb
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRBussinessLayer.dll
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRDataAccessLayer.dll
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRDataAccessLayer.pdb
+E:\EMAS-TTH\AutomatedEmailService\bin\Debug\HRBussinessLayer.pdb
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\AutomatedEmailService.exe
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\AutomatedEmailService.pdb
+E:\EMAS-TTH\AutomatedEmailService\obj\Debug\AutomatedEmailService.ProjectInstaller.resources

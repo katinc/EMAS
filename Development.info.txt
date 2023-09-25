@@ -1,0 +1,4 @@
+Fixed:
+*cant perform a quicksearch with mobileNumber-1h (Done)
+*leave rpt should only list approved leaves-1h
+*the fromDate on leave rpts dialog doesnt seems to work-1h

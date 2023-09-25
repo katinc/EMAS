@@ -1,0 +1,6 @@
+
+*.dll
+obj/Debug/eMAS.pdb
+bin/Debug/eMAS.pdb
+.vs/EMAS/v16/.suo
+*.msi

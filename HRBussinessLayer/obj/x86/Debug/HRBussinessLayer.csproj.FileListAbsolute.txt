@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.pdb
+C:\EMAS CODE FAREED\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.dll
+C:\EMAS CODE FAREED\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.pdb
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.dll
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.pdb
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.dll
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRBussinessLayer\bin\x86\Debug\HRBussinessLayer.pdb
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.dll
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRBussinessLayer\obj\x86\Debug\HRBussinessLayer.pdb

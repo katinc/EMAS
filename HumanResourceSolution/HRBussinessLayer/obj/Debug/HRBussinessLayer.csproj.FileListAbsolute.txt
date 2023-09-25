@@ -1,0 +1,85 @@
+C:\Users\Benyah\Desktop\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\Benyah\Desktop\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\Benyah\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Benyah\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\Benyah\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\SL\Desktop\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\SL\Desktop\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\SL\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SL\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\SL\Desktop\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Documents and Settings\Kwabena\Desktop\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Documents and Settings\Kwabena\Desktop\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Documents and Settings\Kwabena\Desktop\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kwabena\Desktop\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Documents and Settings\Kwabena\Desktop\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\SL\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\SL\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\SL\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SL\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\SL\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\IDNS\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\IDNS\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\IDNS\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IDNS\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\IDNS\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\Menfra\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\Menfra\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\Menfra\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Menfra\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\Menfra\Desktop\FRANK\Franks DeskTop and Docs\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram - Copy\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram - Copy\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram - Copy\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram - Copy\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram - Copy\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\EMAS CODE FAREED\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\EMAS CODE FAREED\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\EMAS CODE FAREED\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+G:\EMAS-NCHC\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+G:\EMAS-NCHC\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+G:\EMAS-NCHC\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\EMAS-NCHC\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+G:\EMAS-NCHC\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+E:\EMAS-NCHC\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+E:\EMAS-NCHC\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+E:\EMAS-NCHC\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-NCHC\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+E:\EMAS-NCHC\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+E:\EMAS-NCHS\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+E:\EMAS-NCHS\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+E:\EMAS-NCHS\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-NCHS\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+E:\EMAS-NCHS\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+E:\EMAS-TTH\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+E:\EMAS-TTH\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+E:\EMAS-TTH\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-TTH\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+E:\EMAS-TTH\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+E:\HumanResourceSolution\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+E:\HumanResourceSolution\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+E:\HumanResourceSolution\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\HumanResourceSolution\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+E:\HumanResourceSolution\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRBussinessLayer\bin\Debug\HRBussinessLayer.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRBussinessLayer\bin\Debug\HRBussinessLayer.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRBussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRBussinessLayer\obj\Debug\HRBussinessLayer.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRBussinessLayer\obj\Debug\HRBussinessLayer.pdb

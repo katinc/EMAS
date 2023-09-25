@@ -1,0 +1,121 @@
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\OHSIMS\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\user\Desktop\Ebo\Infotech\Staff Manager Pro\HumanResourceProgram\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\EMAS CODE FAREED\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+G:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-NCHC\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-NCHS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+E:\EMAS-TTH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+E:\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\User\Documents\MY FOLDER\C# DESKTOP APPS\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Stevkky\InfoTech\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Stevkky\InfoTech\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Stevkky\InfoTech\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\Kadosh-Yashua\Dropbox\personal\InfoTech\EMAS CURRENT\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+D:\Applications\Delivery\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+D:\Applications\Delivery\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+D:\Applications\Delivery\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+D:\Applications\Delivery\HumanResourceSolution\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+D:\Applications\Delivery\HumanResourceSolution - Anglogold\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+D:\Applications\Delivery\HumanResourceSolution - Anglogold\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+D:\Applications\Delivery\HumanResourceSolution - Anglogold\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+D:\Applications\Delivery\HumanResourceSolution - Anglogold\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\Gordon\Documents\Visual Studio 2013\Projects\EMAS\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Desktop\emas\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Desktop\emas\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Desktop\emas\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Desktop\emas\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\Visual Studio 2013\Projects\HumanResourceSolution - VRH\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\GitHub\Koforidua-Emas\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\GitHub\Koforidua-Emas\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\GitHub\Koforidua-Emas\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\GitHub\Koforidua-Emas\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\GitHub\Koforidua-Emas\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\IDNS\Documents\GitHub\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Desktop\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Desktop\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\Support\Desktop\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\Support\Desktop\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\Support\Desktop\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+D:\work\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+D:\work\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+D:\work\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+D:\work\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+D:\work\NEW EMAS PROJ\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+C:\Users\RENEGADE\Downloads\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+C:\Users\RENEGADE\Downloads\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+C:\Users\RENEGADE\Downloads\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+C:\Users\RENEGADE\Downloads\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+C:\Users\RENEGADE\Downloads\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\VRH-eMAS-23b6b1b333cc9d999d64059dbf240e9dff1dfee4\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+E:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+E:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+E:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csprojResolveAssemblyReference.cache
+E:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+E:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+D:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+D:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+D:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+D:\Github\VRH-eMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb
+D:\Github\EMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.dll
+D:\Github\EMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\bin\Debug\HRDataAccessLayerBase.pdb
+D:\Github\EMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.csproj.CoreCompileInputs.cache
+D:\Github\EMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.dll
+D:\Github\EMAS\HRDataAccessLayerBase\HRDataAccessLayerBase\obj\Debug\HRDataAccessLayerBase.pdb

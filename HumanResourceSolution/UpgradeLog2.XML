@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HumanResourceSolution">
+</Property><Property Name="Solution File" Value="E:\HumanResourceSolution\HumanResourceSolution.sln">
+</Property><Property Name="Date" Value="Wednesday, May 20, 2015">
+</Property><Property Name="Time" Value="8:04:40 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="HRBussinessLayer" Source="HRBussinessLayer\HRBussinessLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HRBussinessLayer" Source="HRBussinessLayer\HRBussinessLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HRBussinessLayer" Source="HRBussinessLayer\HRBussinessLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
